@@ -2,5 +2,5 @@
 
 # Files
 ```
-photobucket.m - Scrapes a photobucket album via regular expressions and wget
+photobucket.m - Matlab script scraping a photobucket album via regular expressions and wget
 ```
